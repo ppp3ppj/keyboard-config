@@ -85,7 +85,7 @@
                 {"matrix": [9, 4], "x": 15.25, "y": 3.35},
                 {"matrix": [9, 5], "x": 16.25, "y": 3.1, "w":1.25},
 
-                {"matrix": [4, 0], "x": 0, "y": 4.1}, /* ADD Right new key below shift */
+                {"matrix": [4, 0], "x": 0, "y": 4.1}, /* ADD Left new key below shift */
                 {"matrix": [4, 1], "x": 1.25, "y": 4.35},
                 {"matrix": [4, 2], "x": 2.25, "y": 4.1},
                 {"matrix": [4, 3], "x": 3.25, "y": 4},
