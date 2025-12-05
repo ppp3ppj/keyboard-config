@@ -1,7 +1,7 @@
 {
-    "keyboard_name": "Dactyl CC",
-    "manufacturer": "mjohns",
-    "url": "https://github.com/mjohns/dactyl-cc",
+    "keyboard_name": "Dactyl CC Kinesis 360",
+    "manufacturer": "ppp",
+    "url": "",
     "maintainer": "qmk",
     "usb": {
         "vid": "0x444E",
