@@ -28,4 +28,4 @@ Enter the bootloader in 3 ways:
 
 ## Resources
 * **Wiring reference**: [Dactyl CC](https://github.com/vortex1942/dactyl-cc/blob/master/guide/dactyl-dual-promicro-wiring.pdf)
-* **Kicad Arduino Pro Micro libery reference**: [Arduino Pro Micro Footprint](https://github.com/vortex1942/dactyl-cc/blob/master/guide/dactyl-dual-promicro-wiring.pdf)
+* **Kicad Arduino Pro Micro libery reference**: [Arduino Pro Micro Footprint](https://github.com/Biacco42/ProMicroKiCad)
